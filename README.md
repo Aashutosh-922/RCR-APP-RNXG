@@ -7,4 +7,6 @@
 > Tech Stack: Java, Firebase, XML, Android, Google Auth and Git.
 
 > Snapshots:
-https://user-images.githubusercontent.com/80333681/233867390-5900e2ea-a646-4bb1-8975-5e7be3f37984.jpg
+
+![Screenshot_2023-04-24-02-37-52-034_com.example.rcr30]
+(https://user-images.githubusercontent.com/80333681/233867390-5900e2ea-a646-4bb1-8975-5e7be3f37984.jpg)
