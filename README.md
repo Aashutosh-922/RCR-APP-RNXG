@@ -17,7 +17,6 @@
   
    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/80333681/233867396-918cd9cb-32da-482e-bb24-c33de2801987.jpg">
    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/80333681/233867398-7c373e6a-3cb1-4fd4-954a-7af620d304b4.jpg">
-  
-  
+ 
 </picture>
 
