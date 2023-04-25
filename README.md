@@ -8,8 +8,6 @@
 
 > Snapshots:
 
-/assets/Screenshot_2023-04-24-02-38-16-962_com.example.rcr30.jpg
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/80333681/233867390-5900e2ea-a646-4bb1-8975-5e7be3f37984.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/80333681/233867393-b2e0f650-50e5-4104-9c62-ed15393b3d37.jpg">
